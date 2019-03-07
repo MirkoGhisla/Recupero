@@ -7,7 +7,7 @@ package dindondan;
 
 /**
  *
- * @author ghislanzoni_mirko
+ * @author Mirko Ghislanzoni
  */
 public class DatiCondivisi {
     private int counter;

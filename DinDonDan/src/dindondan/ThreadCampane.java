@@ -7,7 +7,7 @@ package dindondan;
 
 /**
  *
- * @author ghislanzoni_mirko
+ * @author Mirko Ghislanzoni
  */
 public class ThreadCampane extends Thread {
     private String suono;
